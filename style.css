@@ -60,3 +60,12 @@ button:hover{
 p{
 	font-size: 2rem;
 }
+footer{
+	text-align: center;
+	font-size: 0.8rem;
+	color:#F76B8A;
+	
+}
+a{
+	text-decoration: none;
+}
